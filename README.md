@@ -17,7 +17,6 @@
 ### 🛠️ Languages and Tools:
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="50" height="50"/>
-  <img src="https://cfx.re/favicon/favicon-32x32.png" alt="FiveM" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="50" height="50"/>
@@ -37,9 +36,7 @@
 ---
 
 ### 📈 Recent Projects:
-- 🚀 **[Call Up Discord Bot](https://github.com/o3rr/call-up-bot)**: A bot for managing ranks and player info on FiveM  
-- 🎮 **[FiveM Admin Panel](https://github.com/o3rr/fivem-admin-panel)**: Web-based admin control with live data and logs  
-- 📄 **[Arabic PDF Invoice Generator](https://github.com/o3rr/invoice-generator)**: A Python tool for generating PDF invoices in Arabic  
+- 🚀 **[JOB LIST SCRIPT](https://github.com/o3rr/qb-joblist)**: A Script to give job for players 
 
 ---
 
