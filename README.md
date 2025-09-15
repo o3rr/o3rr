@@ -45,7 +45,7 @@
 
 ## 📈 Recent Projects | مشاريعي الأخيرة
 - 🚀 **[JOB LIST SCRIPT](https://github.com/o3rr/qb-joblist)**: A script to manage jobs for players in FiveM  
-- 🏛 **[Monsq](https://monsq.com)**: A platform for managing bug bounty and security research  
+- 🏛 **[Monsq](https://mounsq-re.vercel.app)**: A platform for managing bug bounty and security research  
 - 🎮 **[Tawlah](https://www.tawlah.site)**: An online platform for managing and booking events/tables  
 
 ---
