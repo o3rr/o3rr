@@ -1,141 +1,109 @@
-<h1 align="center">Abdulaziz · o3rr</h1>
+<div align="center">
 
-<p align="center">
-  <strong>Software Developer · UI/UX Designer</strong><br>
-  Building products where good engineering meets good design.
-</p>
+# o3rr
 
-<p align="center">
-  <a href="https://github.com/o3rr">GitHub</a>
-  ·
-  <a href="mailto:7o30jr@gmail.com">Email</a>
-</p>
+**I build things. Sometimes they become products.**
 
----
+[Portfolio](https://myabdulaziz.site) · [Projects](https://github.com/o3rr?tab=repositories) · [Email](mailto:7o30jr@gmail.com)
 
-## About
+</div>
 
-I'm Abdulaziz, a Saudi software developer and UI/UX designer focused on building modern web products.
+<br>
 
-I care about the details that make software feel **simple, fast, and intentional** — from the architecture behind a product to the interface people actually use.
+```text
+Abdulaziz — Saudi Arabia
+Developer / Designer
 
-My main interests are:
+web        ████████████████████
+ui/ux      ██████████████████░░
+backend    ███████████████░░░░░
+experiments ███████████████████░
+```
 
-* Product-focused web development
-* UI/UX and interaction design
-* Full-stack applications
-* Developer tooling & automation
-* AI-assisted development
-* Turning ideas into working products
+## Selected work
 
-> I started programming at 14.
-> Now I'm mostly interested in building things that are actually useful.
-
----
-
-## What I Build
-
-**Web Applications**
-Full-stack products, dashboards, internal tools and SaaS platforms.
-
-**Interfaces**
-Clean, responsive interfaces with a strong focus on hierarchy, usability and interaction.
-
-**Systems**
-Backend services, APIs, authentication, databases and integrations that power the interface.
-
-**Tools**
-Developer utilities and custom software designed to remove repetitive work.
-
----
-
-## Stack
-
-### Frontend
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
-</p>
-
-### Backend & Infrastructure
-
-<p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" alt="Supabase"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" alt="Lua"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-</p>
-
----
-
-## Selected Work
+<table>
+<tr>
+<td width="50%">
 
 ### Tawlah
 
-**QR menu infrastructure for restaurants and cafés.**
+QR menu platform for restaurants & cafés.
 
-A product focused on making digital menus easier to create, manage and maintain.
+**Next.js · Supabase · UI/UX**
 
-→ [tawlah.site](https://tawlah.site/)
+[tawlah.site](https://tawlah.site)
 
-### Munsiq
-
-**A student-focused scheduling platform.**
-
-Designed around making academic schedules easier to organize and understand.
-
-→ [mounsq-re.vercel.app](https://mounsq-re.vercel.app/)
+</td>
+<td width="50%">
 
 ### Pixel UI
 
-**Software, interfaces and infrastructure for digital communities.**
+Software, dashboards & infrastructure for digital communities.
 
-A growing collection of tools and products spanning web applications, dashboards and server infrastructure.
+**Web · FiveM · Lua · TypeScript**
 
-→ [pxui.dev](https://pxui.dev/)
+[pxui.dev](https://pxui.dev)
 
-### Personal Portfolio
+</td>
+</tr>
 
-My personal space for selected work, experiments and projects.
+<tr>
+<td width="50%">
 
-→ [myabdulaziz.site](https://myabdulaziz.site/)
+### Munsiq
 
----
+A simpler way to organize student schedules.
 
-## Currently
+**Web App · UX · Supabase**
 
-Building products, experimenting with new technologies, and getting better at the parts of software engineering that happen behind the interface.
+[mounsq-re.vercel.app](https://mounsq-re.vercel.app)
 
-I'm particularly interested in:
+</td>
+<td width="50%">
 
-`SaaS` · `Web Architecture` · `UX` · `Developer Tools` · `AI × Development`
+### More experiments
 
----
+Small products, interfaces, tools and ideas that probably started with:
 
-## GitHub
+> "طيب لو سوينا..."
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=o3rr&show_icons=true&hide_border=true&theme=transparent&title_color=000000&text_color=555555&icon_color=000000&bg_color=00000000" alt="GitHub Stats"/>
-</p>
+[Browse repositories →](https://github.com/o3rr?tab=repositories)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o3rr&layout=compact&hide_border=true&theme=transparent&title_color=000000&text_color=555555&bg_color=00000000" alt="Top Languages"/>
-</p>
+</td>
+</tr>
+</table>
 
----
+<br>
 
-## Let's build something.
+## Stack
 
-If you're working on a product, interface, tool, or idea that needs to become real:
+`TypeScript` `JavaScript` `React` `Next.js` `Tailwind`
+`Node.js` `Supabase` `Lua` `Git`
 
-**[7o30jr@gmail.com](mailto:7o30jr@gmail.com)**
+<br>
 
-<p align="center">
-  <sub>Designed & built by Abdulaziz · o3rr</sub>
-</p>
+## A little about me
+
+Started programming at **14**.
+
+I like taking something that already works and asking:
+
+**"كيف نخليه أحسن؟"**
+
+That's usually where the fun starts.
+
+<br>
+
+<div align="center">
+
+### Find me
+
+[![GitHub](https://img.shields.io/badge/GitHub-o3rr-111111?style=flat-square\&logo=github\&logoColor=white)](https://github.com/o3rr)
+[![Email](https://img.shields.io/badge/Email-Contact-111111?style=flat-square\&logo=gmail\&logoColor=white)](mailto:7o30jr@gmail.com)
+
+<br>
+
+<sub>Built by o3rr · 2026</sub>
+
+</div>
