@@ -1,60 +1,141 @@
-<h1 align="center">Hi 👋, I'm Abdulaziz (o3rr)</h1>
-<h3 align="center">Full-Stack Software Developer & UI/UX Designer</h3>
+<h1 align="center">Abdulaziz · o3rr</h1>
 
----
-
-<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-## 🌍 About Me | عني
-
-- 🔭 Currently working on **Tawlah platform, Dirayah, and custom web dashboards**  
-- 🌱 Improving **backend engineering** & exploring **Russian language**  
-- 👯 Collaborating on **modern web apps & AI-assisted development environments**  
-- 💬 Ask me about **Next.js, Tailwind CSS, or Web Architecture**  
-- 📫 Reach me at: **7o30jr@gmail.com**  
-- ⚡ Fun fact: **I have a high visual taste for Bento Grid and Glassmorphism designs!**
-
----
-
-## 🛠️ Languages and Tools | اللغات والأدوات
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" alt="Lua" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/>
-</p>
-
----
-
-## 📊 GitHub Stats | إحصائياتي
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=o3rr&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <strong>Software Developer · UI/UX Designer</strong><br>
+  Building products where good engineering meets good design.
 </p>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o3rr&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <a href="https://github.com/o3rr">GitHub</a>
+  ·
+  <a href="mailto:7o30jr@gmail.com">Email</a>
 </p>
 
 ---
 
-## 📈 Recent Projects | مشاريعي الأخيرة
-- 🌐 **[Personal Portfolio](https://myabdulaziz.site/)**: A high-end minimalist portfolio built with modern web aesthetics.  
-- 📖 **[Dirayah](https://dirayah.myabdulaziz.site/)**: A clean web interface focused on seamless information architecture.  
-- 🛡️ **[Tawlah](https://tawlah.site/)**: A secure script licensing and protection infrastructure system.  
+## About
+
+I'm Abdulaziz, a Saudi software developer and UI/UX designer focused on building modern web products.
+
+I care about the details that make software feel **simple, fast, and intentional** — from the architecture behind a product to the interface people actually use.
+
+My main interests are:
+
+* Product-focused web development
+* UI/UX and interaction design
+* Full-stack applications
+* Developer tooling & automation
+* AI-assisted development
+* Turning ideas into working products
+
+> I started programming at 14.
+> Now I'm mostly interested in building things that are actually useful.
 
 ---
 
-## 🔗 Let's Connect | تواصل معي
-<p align="left">
-  <a href="https://github.com/o3rr" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-333333?logo=github&logoColor=white" alt="GitHub"/>
-  </a>
+## What I Build
+
+**Web Applications**
+Full-stack products, dashboards, internal tools and SaaS platforms.
+
+**Interfaces**
+Clean, responsive interfaces with a strong focus on hierarchy, usability and interaction.
+
+**Systems**
+Backend services, APIs, authentication, databases and integrations that power the interface.
+
+**Tools**
+Developer utilities and custom software designed to remove repetitive work.
+
+---
+
+## Stack
+
+### Frontend
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" width="40" alt="Tailwind CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS3"/>
+</p>
+
+### Backend & Infrastructure
+
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/supabase/supabase-original.svg" width="40" alt="Supabase"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="40" alt="Lua"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
 </p>
 
 ---
 
-⭐️ From [o3rr](https://github.com/o3rr)
+## Selected Work
+
+### Tawlah
+
+**QR menu infrastructure for restaurants and cafés.**
+
+A product focused on making digital menus easier to create, manage and maintain.
+
+→ [tawlah.site](https://tawlah.site/)
+
+### Munsiq
+
+**A student-focused scheduling platform.**
+
+Designed around making academic schedules easier to organize and understand.
+
+→ [mounsq-re.vercel.app](https://mounsq-re.vercel.app/)
+
+### Pixel UI
+
+**Software, interfaces and infrastructure for digital communities.**
+
+A growing collection of tools and products spanning web applications, dashboards and server infrastructure.
+
+→ [pxui.dev](https://pxui.dev/)
+
+### Personal Portfolio
+
+My personal space for selected work, experiments and projects.
+
+→ [myabdulaziz.site](https://myabdulaziz.site/)
+
+---
+
+## Currently
+
+Building products, experimenting with new technologies, and getting better at the parts of software engineering that happen behind the interface.
+
+I'm particularly interested in:
+
+`SaaS` · `Web Architecture` · `UX` · `Developer Tools` · `AI × Development`
+
+---
+
+## GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=o3rr&show_icons=true&hide_border=true&theme=transparent&title_color=000000&text_color=555555&icon_color=000000&bg_color=00000000" alt="GitHub Stats"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o3rr&layout=compact&hide_border=true&theme=transparent&title_color=000000&text_color=555555&bg_color=00000000" alt="Top Languages"/>
+</p>
+
+---
+
+## Let's build something.
+
+If you're working on a product, interface, tool, or idea that needs to become real:
+
+**[7o30jr@gmail.com](mailto:7o30jr@gmail.com)**
+
+<p align="center">
+  <sub>Designed & built by Abdulaziz · o3rr</sub>
+</p>
